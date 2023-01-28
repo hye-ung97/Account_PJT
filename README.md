@@ -1,4 +1,4 @@
-# Account_PJT
+# 💰Account_PJT
 
 ### 1️⃣ Info
 Account(계좌) 시스템은 사용자와 계좌의 정보를 저장하고 있으며, 
